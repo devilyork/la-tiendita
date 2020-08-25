@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './img/tiendaFHD.png';
 import './App.css';
-import Button from 'react-bootstrap/Button'
+import Button from 'react-bootstrap/Button';
 //import { Button } from 'react-bootstrap';
 
 function App() {
